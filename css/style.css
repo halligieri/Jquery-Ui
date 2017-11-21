@@ -1,0 +1,44 @@
+.contenedor{
+  width: 640px;
+  height: 720px;
+  position: relative;
+  margin-left: 475px;
+  border: solid 1px black;
+}
+
+.blanco{
+  width: 80px;
+  height: 80px;
+  position: relative;
+  float: right;
+}
+
+.negro{
+  width: 80px;
+  height: 80px;
+  position: relative;
+  float: right;
+  background-color: rgb(0, 0, 0);
+}
+
+.rojo {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  margin-left: 10px;
+  margin-top: 10px;
+  position: relative;
+  background-color:rgb(250, 9, 30);
+  border-radius: 50%;
+}
+
+.azul {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  margin-left: 10px;
+  margin-top: 10px;
+  position: relative;
+  background-color: rgb(9, 4, 249);
+  border-radius: 50%;
+}
